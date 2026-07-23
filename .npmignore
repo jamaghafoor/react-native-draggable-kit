@@ -1,0 +1,25 @@
+# Generated
+node_modules/
+lib/
+
+# Example app
+example/
+
+# Tests
+__tests__/
+jest.config.ts
+jest.setup.ts
+coverage/
+
+# CI/tooling
+.github/
+.changeset/
+.eslintrc.js
+.prettierrc
+babel.config.js
+tsconfig.json
+tsconfig.build.json
+
+# Misc
+*.tgz
+.DS_Store
