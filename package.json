@@ -48,14 +48,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/react-native-draggable-kit.git"
+    "url": "https://github.com/jamaghafoor/react-native-draggable-kit.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/your-org/react-native-draggable-kit/issues"
+    "url": "https://github.com/jamaghafoor/react-native-draggable-kit/issues"
   },
-  "homepage": "https://github.com/your-org/react-native-draggable-kit#readme",
+  "homepage": "https://github.com/jamaghafoor/react-native-draggable-kit#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
